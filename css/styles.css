@@ -56,11 +56,13 @@ form {
 #hr-1 {
   width: 75%;
   border-top: 5px dotted grey;
+  text-align: center;
 }
 
 #hr-2 {
   width: 25%;
   border-top: 5px dotted grey;
+  text-align: center;
 }
 
 input {
