@@ -20,7 +20,7 @@ body {
   padding-top: 150px;
 }
 
-.btn-1 {
+/* .btn-1 {
   margin-right: 75px;
   width: 150px;
 }
@@ -28,7 +28,17 @@ body {
 .btn-2 {
   margin-left: 50px;
   width: 150px;
+} */
+
+.container{
+  margin-top: 200px;
 }
+
+.btn{
+  width: 200px;
+  text-align: center;
+}
+
 
 #footer {
   position: absolute;
