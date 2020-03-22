@@ -29,16 +29,9 @@ body {
   margin-left: 50px;
   width: 150px;
 } */
-
-.container{
+.container {
   margin-top: 200px;
 }
-
-.btn{
-  width: 200px;
-  text-align: center;
-}
-
 
 #footer {
   position: absolute;
@@ -81,4 +74,16 @@ input {
 
 input:hover {
   color: red;
+}
+
+.boot-icon {
+  text-align: center;
+  padding-top: 100px;
+  color:red;
+}
+
+.css-icon {
+  text-align: center;
+  padding-top: 100px;
+  color: blue;
 }
