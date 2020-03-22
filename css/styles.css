@@ -87,3 +87,6 @@ input:hover {
   padding-top: 100px;
   color: blue;
 }
+.carousel-control-prev{
+  color: blue;
+}
